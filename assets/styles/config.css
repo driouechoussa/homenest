@@ -1,0 +1,13 @@
+:root {
+    /* Colors */
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+
+    --white: rgb(255, 255, 255);
+    --dark: rgb(48, 48, 48);
+    --gray: rgb(108, 117, 125);
+
+    /* typography and fonts */
+    --poppins: "Poppins", serif;
+    --noto-Serif:"Noto Serif", serif;
+}
