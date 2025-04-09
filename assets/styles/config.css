@@ -1,0 +1,27 @@
+:root {
+    /* Colors */
+    --primary-color: rgb(221, 171, 160);
+    --secondary-color: #2ecc71;
+
+    --white: rgb(255, 255, 255);
+    --dark: rgb(48, 48, 48);
+    --gray: rgb(108, 117, 125);
+
+    /* typography and fonts */
+    --poppins: "Poppins", serif;
+    --noto-Serif:"Noto Serif", serif;
+
+    /*
+    Font sizes
+    */
+    --large_fs: 50px;
+    --medium_fs: 25px;
+    --normal_fs: 17px;
+    --small_fs: 15px;
+
+    /*
+    weights
+    */
+    --bold: 700;
+    --medium: 500;
+}
